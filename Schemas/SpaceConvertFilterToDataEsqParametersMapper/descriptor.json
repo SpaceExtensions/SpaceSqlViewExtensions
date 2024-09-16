@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "1d9743f8-7d0c-4922-899a-3e3695ff6925",
+    "Name": "SpaceConvertFilterToDataEsqParametersMapper",
+    "ModifiedOnUtc": "\/Date(1726478314000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "SpaceConvertFilterToDataEsqParametersMapper",
+    "DependsOn": []
+  }
+}

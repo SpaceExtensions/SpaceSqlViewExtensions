@@ -1,0 +1,17 @@
+.tooltip {
+	position: absolute;
+	vertical-align: top;
+	display: inline-block;	
+	opacity: 0;
+	padding: 20px 5px;
+	text-transform: none;
+	transition: all 0.75s ease;
+}
+
+.tooltip::after {
+	content: 'Скопировано';
+}
+
+.tooltip.active {
+	opacity: 1;	
+}

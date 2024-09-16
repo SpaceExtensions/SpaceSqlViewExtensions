@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "70687d05-90f1-43dc-12b7-0f2848803837",
+    "Name": "SpaceSqlViewExtensions",
+    "ModifiedOnUtc": "\/Date(1726478204000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "7.8.0",
+        "Name": "Studio"
+      }
+    ]
+  }
+}

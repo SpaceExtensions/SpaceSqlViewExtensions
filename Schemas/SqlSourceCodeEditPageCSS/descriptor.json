@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c018b495-4bb9-42eb-a67c-00b7585208ea",
+    "Name": "SqlSourceCodeEditPageCSS",
+    "ModifiedOnUtc": "\/Date(1726478584000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "SqlSourceCodeEditPageCSS",
+    "DependsOn": []
+  }
+}

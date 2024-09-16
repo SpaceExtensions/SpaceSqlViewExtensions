@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "decc722b-76d3-44d2-8433-2e2a23e7de39",
+    "Name": "ProcessFlowElementPropertiesPage",
+    "ModifiedOnUtc": "\/Date(1726478498000)\/",
+    "Parent": {
+      "UId": "0f347363-31e5-4222-a82e-dcfeda34cbb6",
+      "Name": "ProcessFlowElementPropertiesPage"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "ProcessFlowElementPropertiesPage",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "14425093-9e83-4c8a-8623-e2f26070b59b",
+    "Name": "SpaceConvertFilterDataToEsqService",
+    "ModifiedOnUtc": "\/Date(1726478281000)\/",
+    "ManagerName": "SourceCodeSchemaManager",
+    "Caption": "SpaceConvertFilterDataToEsqService",
+    "DependsOn": []
+  }
+}

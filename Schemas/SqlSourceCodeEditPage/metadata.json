@@ -1,0 +1,41 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "70fdc1e4-5ca8-4e22-9b15-0ee348550f17",
+      "A2": "SqlSourceCodeEditPage",
+      "A5": "4c4c4e69-dfeb-4205-bb82-b1823dbb6a6c",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "70687d05-90f1-43dc-12b7-0f2848803837",
+      "B8": "7.18.5.1501",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 2,
+      "HD6": "define('{0}Structure', ['{0}Resources'], function(resources) {{return {{schemaUId:'{2}',schemaName:'{3}',parentSchemaUId:'{4}',extendParent:{5},type:Terrasoft.SchemaType.EDIT_VIEW_MODEL_SCHEMA,entitySchema:'',name:'',extend:'Terrasoft.model.BaseViewModel',schema:{{leftPanel:[],rightPanel:[],actions:[],analytics:[]}},methods:{{}},controlsConfig:{{}},customBindings:{{}},bindings:{{}},schemaDifferences:function(){{\n{1}\n}}}};}});",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [
+        {
+          "UId": "c00f9597-fea9-92ea-4003-e4705a9680c0",
+          "A2": "CopyImage",
+          "A3": "70fdc1e4-5ca8-4e22-9b15-0ee348550f17",
+          "A4": "70fdc1e4-5ca8-4e22-9b15-0ee348550f17"
+        },
+        {
+          "UId": "4a9b8517-b0e6-04a5-0ba8-5068d74831c3",
+          "A2": "ExpandImage",
+          "A3": "70fdc1e4-5ca8-4e22-9b15-0ee348550f17",
+          "A4": "70fdc1e4-5ca8-4e22-9b15-0ee348550f17"
+        },
+        {
+          "UId": "f938aa46-832a-47c3-5715-da341e1b62ab",
+          "A2": "CollapseImage",
+          "A3": "70fdc1e4-5ca8-4e22-9b15-0ee348550f17",
+          "A4": "70fdc1e4-5ca8-4e22-9b15-0ee348550f17"
+        }
+      ],
+      "HD11": []
+    }
+  }
+}
